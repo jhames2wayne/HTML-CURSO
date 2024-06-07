@@ -1,0 +1,26 @@
+h1{
+    color: rgba(43, 255, 0, 0.747);
+}
+
+img{
+    height: 92px;
+    width: 272px;
+}
+a{
+    text-decoration: none;
+    color: #000000DE
+    font-size: 13px;
+    font-family: arial, sans-serif;
+}
+.icone-produtos{
+    width: 24px;
+    fill: #5f6368;
+}
+.botao-entrar{
+    background-color: #1a73e8;
+    color: white;
+    padding: 10px 30px;
+    font-weight: 500;
+    font-family: Google Sans,Roboto,Helvetica,Arial,sans-serif;
+    border-radius: 4px;
+}
